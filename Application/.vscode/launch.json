@@ -1,20 +1,12 @@
 {
-    // Use o IntelliSense para saber mais sobre os atributos possíveis.
-    // Focalizar para exibir as descrições dos atributos existentes.
-    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
             "type": "java",
-            "name": "Program",
+            "name": "Run Program",
             "request": "launch",
-            "mainClass": "application.Program",
-            "projectName": "Application_31741779"
-        },
-        {
-            "type": "jdk",
-            "request": "launch",
-            "name": "Launch Java App"
+            "mainClass": "Application.Program",
+            "console": "externalTerminal"
         }
     ]
 }
